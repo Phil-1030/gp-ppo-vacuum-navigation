@@ -134,7 +134,7 @@ Mean cell-visit counts over 100 episodes. PPO + GP distributes visits across the
 This red-and-black map shows **mean absolute posterior error**, averaged across the final states of the 100 PPO + GP episodes:
 
 $$
-\operatorname{MAE}(r,c)=\frac{1}{100}\sum_{e=1}^{100}
+\mathrm{MAE}(r,c)=\frac{1}{100}\sum_{e=1}^{100}
 \left|\mu^{\mathrm{final}}_e(r,c)-d^{\mathrm{final}}_e(r,c)\right|.
 $$
 
