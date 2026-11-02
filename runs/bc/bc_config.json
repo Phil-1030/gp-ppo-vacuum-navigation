@@ -1,0 +1,9 @@
+{
+  "battery_threshold": 0.3,
+  "lr_C": 1.0,
+  "n_episodes": 200,
+  "output_dir": "runs/bc",
+  "seed_base": 9000,
+  "svm_C": 0.1,
+  "val_fraction": 0.2
+}

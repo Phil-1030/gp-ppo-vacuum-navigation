@@ -1,0 +1,10 @@
+{
+  "blur_length_scale": 1.5,
+  "blur_variance_decay": 0.85,
+  "gp_update_every": 5,
+  "mu_prior": 0.5,
+  "noise_var": 0.0225,
+  "reset_on_episode_end": true,
+  "use_spatial_blur": true,
+  "var_prior": 1.0
+}
